@@ -1,6 +1,6 @@
 // hello.js
 function main() {
-  console.log("Hello, GitHub! — from yourname");
+  console.log("Hello, GitHub! — from ChristabelD");
 }
 
 main();
